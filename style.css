@@ -1,0 +1,45 @@
+    h1  {
+    background-color: rgb(112, 204, 233);
+    font-size: 40;
+    font-family:'Lucida Grande';
+    text-align:center;
+    padding:30px
+   }
+
+    h2  {
+    background-color: rgb(206, 242, 251);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25;
+    text-align: center;
+    }
+
+    a  {
+    background-color: rgb(206, 242, 251);
+    font-family:'Times New Roman';
+    font-size: 30;
+    text-align: center;
+    text-decoration-color:rgb(206, 242, 251);
+    color: black;
+    }
+
+    i  {
+    font-family:'Times New Roman';
+    font-size: 19;
+    }
+
+    #date  {
+    font-family:'Times New Roman';
+    font-size: 16;
+    }
+
+    #journal  {
+    font-size: 14px;
+    font-family: 'Courier New';
+    }
+
+    #home  {
+    font-size: 19px;
+    font-family: 'Times New Roman';
+    background-color: #ffffff;
+    color:black
+    }
